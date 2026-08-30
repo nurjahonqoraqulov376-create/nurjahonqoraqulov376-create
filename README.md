@@ -161,7 +161,7 @@ print(me.motto())
 <h2 align="center">🌐 Men bilan bog'lanish</h2>
 
 <p align="center">
-  <a href="https://t.me/@nurik_developerr07">
+  <a href="https://t.me/nurik_developerr07">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:nurjahonqoraqulov376@gmail.com">
